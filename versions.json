@@ -1,8 +1,10 @@
 {
   "versions": [{
     "versiontype": "proofreading",
-    "title": "On this and other worlds: Voices from Amazonia ",
-    "authors": [{"name": "Kristine Stenzel"},{"name": "Bruna Franchetto"}],
+    "title": "On this and other worlds -- Voices from Amazonia",
+    "authors": [{"name": "Kristine Stenzel"},
+		{"name": "Bruna Franchetto"}
+	      ],
     "publishedAt": "2017-07-05T00:00:33.000Z"
   }]
 }
