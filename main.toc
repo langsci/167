@@ -1,0 +1,123 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
+\defcounter {refsection}{0}\relax
+\select@language {english}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Acknowledgments}{v}{chapter*.2}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Standard abbreviations used in this volume}{vii}{chapter*.3}
+\defcounter {refsection}{1}\relax
+\contentsline {chapter}{{\numberline {1}Amazonian narrative verbal arts and typological gems\newline {\normalfont Bruna Franchetto \& Kristine Stenzel }}}{1}{chapter*.4}
+\defcounter {refsection}{1}\relax
+\contentsline {section}{\numberline {1}Origins}{1}{section.1.1}
+\defcounter {refsection}{1}\relax
+\contentsline {section}{\numberline {2}A contribution to Amazonian ethnology}{3}{section.1.2}
+\defcounter {refsection}{1}\relax
+\contentsline {section}{\numberline {3}Narrative verbal artistry}{5}{section.1.3}
+\defcounter {refsection}{1}\relax
+\contentsline {section}{\numberline {4}A host of typological gems}{6}{section.1.4}
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\numberline {I}Life, death, and the world beyond}{21}{part.1}
+\defcounter {refsection}{2}\relax
+\contentsline {chapter}{{\numberline {2}Kuikuro\newline {\normalfont Bruna Franchetto, Carlos Fausto, Ájahi Kuikuro \& Jamalui Kuikuro Mehinaku}}}{23}{chapter*.7}
+\defcounter {refsection}{2}\relax
+\contentsline {section}{\numberline {1}Introduction}{23}{section.2.1}
+\defcounter {refsection}{2}\relax
+\contentsline {section}{\numberline {2}Kuikuro: people and language}{24}{section.2.2}
+\defcounter {refsection}{2}\relax
+\contentsline {section}{\numberline {3}The narrative}{27}{section.2.3}
+\defcounter {refsection}{2}\relax
+\contentsline {section}{\numberline {4}Anha ituna tütenhüpe itaõ}{31}{section.2.4}
+\defcounter {refsection}{3}\relax
+\contentsline {chapter}{{\numberline {3}Kalapalo\newline {\normalfont Antonio Guerreiro, Ageu Kalapalo, Jeika Kalapalo \& Ugise Kalapalo}}}{89}{chapter*.14}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {1}Introduction}{89}{section.3.1}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {2}\textit {Kamagisa etsutühügü}}{91}{section.3.2}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {3}Comments: alterity and translation}{134}{section.3.3}
+\defcounter {refsection}{4}\relax
+\contentsline {chapter}{{\numberline {4}Marubo\newline {\normalfont Pedro de Niemeyer Cesarino, Armando Mariano Marubo Cherõpapa Txano \& Robson Dionísio Doles Marubo}}}{139}{chapter*.20}
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {1}Introduction}{139}{section.4.1}
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {2}The teachings of the Death-Path}{142}{section.4.2}
+\defcounter {refsection}{5}\relax
+\contentsline {chapter}{{\numberline {5}Trumai\newline {\normalfont Raquel Guirardello-Damian, Kumaru Trumai \& Tarukuy Trumai}}}{163}{chapter*.24}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {1}Introduction}{163}{section.5.1}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {2}The Trumai people and their language}{163}{section.5.2}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {3}The topic of the narrative}{165}{section.5.3}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {4}General aspects of the narrative}{168}{section.5.4}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {5}tɾumaj wankat̪e daint̪'a: kowow}{170}{section.5.5}
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\numberline {II}Beginnings}{187}{part.2}
+\defcounter {refsection}{6}\relax
+\contentsline {chapter}{{\numberline {6}Kotiria\newline {\normalfont Kristine Stenzel, Teresinha Marques, José Galvez Trindade \& Miguel Wacho Cabral}}}{189}{chapter*.32}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {1}Introduction}{189}{section.6.1}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {2}Mahsa khõ'akho'topori}{196}{section.6.2}
+\defcounter {refsection}{7}\relax
+\contentsline {chapter}{{\numberline {7}Hup\newline {\normalfont Patience Epps, Isabel Salustiano, Jovino Monteiro \& Pedro Pires Dias}}}{277}{chapter*.42}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {1}Introduction}{277}{section.7.1}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {2}Mohõ̀y wäd nɨ̀h pɨnɨ̀g}{287}{section.7.2}
+\defcounter {refsection}{8}\relax
+\contentsline {chapter}{{\numberline {8}Sakurabiat\newline {\normalfont Ana Vilacy Galucio, Mercedes Guaratira Sakyrabiar, Manoel Ferreira Sakyrabiar, Rosalina Guaratira Sakyrabiar \& Olimpio Ferreira Sakyrabiar}}}{331}{chapter*.53}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {1}Introduction}{331}{section.8.1}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {2}Kõtkõra asisi}{336}{section.8.2}
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\numberline {III}Ancestors and tricksters}{353}{part.3}
+\defcounter {refsection}{9}\relax
+\contentsline {chapter}{{\numberline {9}Kĩsêdjê\newline {\normalfont Rafael Nonato, Kujusi Suyá, Jamthô Suyá \& Kawiri Suyá}}}{355}{chapter*.61}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {1}Introduction}{355}{section.9.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {1.1}The circumstances of the narration}{356}{subsection.9.1.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {1.2}The Kĩsêdjê people}{356}{subsection.9.1.2}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {1.3}The Kĩsêdjê language}{358}{subsection.9.1.3}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {2}Khátpy re wapãmjê thõ thurun tho thẽm nda}{360}{section.9.2}
+\defcounter {refsection}{10}\relax
+\contentsline {chapter}{{\numberline {10}Kwaza\newline {\normalfont Hein van der Voort, Edileusa Kwaza, Zezinho Kwaza \& Mario Aikanã}}}{387}{chapter*.65}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {1}Introduction}{387}{section.10.1}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {2}Hakai dariya}{390}{section.10.2}
+\defcounter {refsection}{11}\relax
+\contentsline {chapter}{{\numberline {11}Aikanã\newline {\normalfont Joshua Birchall, Hein van der Voort, Luiz Aikanã \& Cândida Aikanã}}}{405}{chapter*.70}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {1}Introduction}{405}{section.11.1}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {2}Eruerazũ kyã’apa’i}{408}{section.11.2}
+\defcounter {refsection}{12}\relax
+\contentsline {chapter}{{\numberline {12}Suruí of Rondônia\newline {\normalfont Cédric Yvinec \& Agamenon Gamasakaka Suruí}}}{439}{chapter*.75}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {1}Introduction}{439}{section.12.1}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {2}Ana omamõya \~{G}oxoraka ã}{443}{section.12.2}
+\defcounter {refsection}{13}\relax
+\contentsline {chapter}{{\numberline {13}Ka'apor\newline {\normalfont Gustavo Godoy \& Wyrapitã Ka'apor}}}{467}{chapter*.84}
+\defcounter {refsection}{13}\relax
+\contentsline {section}{\numberline {1}Introduction}{467}{section.13.1}
+\defcounter {refsection}{13}\relax
+\contentsline {section}{\numberline {2}The Ka’apor and their languages}{468}{section.13.2}
+\defcounter {refsection}{13}\relax
+\contentsline {section}{\numberline {3}Notes on the narrative}{469}{section.13.3}
+\defcounter {refsection}{13}\relax
+\contentsline {section}{\numberline {4}Notes on transcription and annotation}{471}{section.13.4}
+\defcounter {refsection}{13}\relax
+\contentsline {section}{\numberline {5}A’i ymanhar ke kurumĩ rehe pynu ixo.}{471}{section.13.5}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index}{481}{section*.89}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Name index}{481}{section*.90}

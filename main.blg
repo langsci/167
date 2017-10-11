@@ -1,0 +1,128 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'main.blg'
+[22] biber:290> INFO - === Mi Okt 11, 2017, 12:17:40
+[35] Biber.pm:351> INFO - Reading 'main.bcf'
+[109] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[109] Biber.pm:776> INFO - Found 23 citekeys in bib section 1
+[109] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[110] Biber.pm:776> INFO - Found 23 citekeys in bib section 2
+[110] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[110] Biber.pm:776> INFO - Found 13 citekeys in bib section 3
+[110] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[110] Biber.pm:776> INFO - Found 19 citekeys in bib section 4
+[110] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:776> INFO - Found 22 citekeys in bib section 5
+[111] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:776> INFO - Found 23 citekeys in bib section 6
+[111] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:776> INFO - Found 20 citekeys in bib section 7
+[111] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:776> INFO - Found 6 citekeys in bib section 8
+[111] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:776> INFO - Found 4 citekeys in bib section 9
+[112] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:776> INFO - Found 2 citekeys in bib section 10
+[112] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:776> INFO - Found 5 citekeys in bib section 11
+[112] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:776> INFO - Found 9 citekeys in bib section 12
+[112] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:776> INFO - Found 14 citekeys in bib section 13
+[112] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[170] Biber.pm:3493> INFO - Processing section 1
+[178] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 1
+[183] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[189] bibtex.pm:1048> INFO - Found BibTeX data source 'localbibliography.bib'
+[209] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 1
+[210] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[211] bibtex.pm:1048> INFO - Found BibTeX data source 'collection_tmp.bib'
+[248] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[249] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[249] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[249] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[268] Biber.pm:3493> INFO - Processing section 2
+[268] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 2
+[281] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 2
+[318] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[318] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[318] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[318] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[336] Biber.pm:3493> INFO - Processing section 3
+[336] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 3
+[342] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 3
+[362] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[362] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[362] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[362] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[371] Biber.pm:3493> INFO - Processing section 4
+[371] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 4
+[379] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 4
+[404] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[404] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[404] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[404] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[417] Biber.pm:3493> INFO - Processing section 5
+[418] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 5
+[428] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 5
+[459] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[459] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[459] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[459] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[475] Biber.pm:3493> INFO - Processing section 6
+[476] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 6
+[488] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 6
+[521] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[521] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[521] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[521] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[539] Biber.pm:3493> INFO - Processing section 7
+[539] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 7
+[548] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 7
+[576] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[576] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[576] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[576] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[591] Biber.pm:3493> INFO - Processing section 8
+[591] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 8
+[595] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 8
+[612] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[612] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[612] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[612] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[617] Biber.pm:3493> INFO - Processing section 9
+[617] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 9
+[619] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 9
+[630] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[630] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[630] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[630] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[633] Biber.pm:3493> INFO - Processing section 10
+[633] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 10
+[634] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 10
+[644] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[644] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[644] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[644] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[646] Biber.pm:3493> INFO - Processing section 11
+[646] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 11
+[649] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 11
+[662] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[662] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[663] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[663] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[666] Biber.pm:3493> INFO - Processing section 12
+[666] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 12
+[671] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 12
+[685] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[686] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[686] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[686] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[692] Biber.pm:3493> INFO - Processing section 13
+[692] Biber.pm:3657> INFO - Looking for bibtex format file 'localbibliography.bib' for section 13
+[698] Biber.pm:3657> INFO - Looking for bibtex format file 'collection_tmp.bib' for section 13
+[718] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[718] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[718] Biber.pm:3306> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[718] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[728] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[747] bbl.pm:619> INFO - Output to main.bbl
